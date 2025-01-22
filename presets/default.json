@@ -44,7 +44,8 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Illustrious-XL-v0.1.safetensors": "https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/resolve/main/Illustrious-XL-v0.1.safetensors"
+        "Illustrious-XL-v0.1.safetensors": "https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/resolve/main/Illustrious-XL-v0.1.safetensors",
+        "ponyRealism_V22MainVAE.safetensors": "https://huggingface.co/Ine007/ponyRealism_v22MainVAE/resolve/main/ponyRealism_v22MainVAE.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
