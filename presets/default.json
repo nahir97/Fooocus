@@ -5,12 +5,12 @@
     "default_loras": [
         [
             true,
-            "qiandaiyiyu-10.safetensors",
-            0.1
+            "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
+            0.25
         ],
         [
             true,
-            "becker-10.safetensors",
+            "alina-10.safetensors",
             1.0
         ],
         [
@@ -52,7 +52,6 @@
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
         "qiandaiyiyu-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/qiandaiyiyu-10.safetensors",
         "becker-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/becker-10.safetensors",
-        "alina-07.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/alina-07.safetensors",
         "baerasoni-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/baerasoni-10.safetensors",
         "boyeon-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/boyeon-10.safetensors",
         "dreamkreme-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/dreamkreme-10.safetensors",
