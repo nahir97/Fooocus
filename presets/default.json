@@ -60,7 +60,8 @@
         "xiaomei-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/xiaomei-10.safetensors",
         "xxapplee-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/xxapplee-10.safetensors",
         "virtualtorii-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/virtualtorii-10.safetensors",
-        "itskaslol-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/itskaslol-10.safetensors"
+        "itskaslol-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/itskaslol-10.safetensors",
+        "alina-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/alina-10.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
