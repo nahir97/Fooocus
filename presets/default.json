@@ -44,25 +44,9 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Illustrious-XL-v0.1.safetensors": "https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/resolve/main/Illustrious-XL-v0.1.safetensors",
-        "ponyRealism_V22MainVAE.safetensors": "https://huggingface.co/Ine007/ponyRealism_v22MainVAE/resolve/main/ponyRealism_v22MainVAE.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-        "qiandaiyiyu-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/qiandaiyiyu-10.safetensors",
-        "becker-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/becker-10.safetensors",
-        "baerasoni-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/baerasoni-10.safetensors",
-        "boyeon-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/boyeon-10.safetensors",
-        "dreamkreme-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/dreamkreme-10.safetensors",
-        "hitomi-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/hitomi-10.safetensors",
-        "xiaomei-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/xiaomei-10.safetensors",
-        "xxapplee-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/xxapplee-10.safetensors",
-        "virtualtorii-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/virtualtorii-10.safetensors",
-        "itskaslol-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/itskaslol-10.safetensors",
-        "alina-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/alina-10.safetensors",
-        "NaturalBreasts-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/NaturalBreasts-10.safetensors",
-        "yuansayuki-10.safetensors": "https://huggingface.co/Zveir/MyLoras/resolve/main/yuansayuki-10.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
