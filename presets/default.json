@@ -1,5 +1,5 @@
 {
-    "default_model": "Illustrious-XL-v0.1.safetensors",
+    "default_model": "rillusmRealistic_v11.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
