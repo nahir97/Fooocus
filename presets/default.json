@@ -1,5 +1,5 @@
 {
-    "default_model": "rillusmRealistic_v11.safetensors",
+    "default_model": "None",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
